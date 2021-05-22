@@ -29,6 +29,11 @@ button {
   border-radius: 5px;
 }
 
+button:hover {
+  background-color: blue;
+  color: white;
+}
+
 main {
   padding: 50px;
   transition: all 200ms;
